@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    <string name="score_text">Score: %1$d</string>
+    <string name="result_message">You scored %1$d out of %2$d!</string>
+    <string name="correct_answer_feedback">Correct!</string>
+    <string name="incorrect_answer_feedback">Incorrect. The correct answer is %1$s.</string>
+    <string name="question_number">Question %1$d of %2$d</string>
+    <string name="final_score_text">Final Score: %1$d/%2$d</string>
+
+</resources>
